@@ -697,7 +697,7 @@ body::before {
 .icon{
   margin-right: 20px;
   font-size: 24px;
-  color: orange;
+  color: rgb(47, 255, 47);
   flex-shrink: 0;
   text-align: center;
   width: 30px;
