@@ -443,7 +443,7 @@ body::before {
 
 @media screen and (max-width: 830px) and (min-width: 0px) {
   .top_logo{
-    font-size: 16px;
+    font-size: 20px;
     font-weight: bold;
     padding: 15px;
     margin-left: 10px;
