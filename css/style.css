@@ -780,6 +780,10 @@ body::before {
   justify-content: space-between;
 }
 
+.font-bold {
+  font-weight: bold;
+}
+
 .red-bold{
   font-weight: bold;
   color: red;
